@@ -1,0 +1,19 @@
+{
+  "name": "codeforge",
+  "version": "2.0.0",
+  "description": "AI-powered code generation platform with 15+ advanced features",
+  "scripts": {
+    "dev": "base44 dev",
+    "build": "base44 build",
+    "preview": "base44 preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "@tanstack/react-query": "^5.0.0",
+    "lucide-react": "latest",
+    "date-fns": "^3.0.0",
+    "react-markdown": "^9.0.0"
+  }
+}
